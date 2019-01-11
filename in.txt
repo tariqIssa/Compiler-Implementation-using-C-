@@ -1,0 +1,6 @@
+void main()
+{
+  main()
+if(x>2)
+x=x+b cin>>x;
+}
